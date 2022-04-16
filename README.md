@@ -31,7 +31,7 @@ Tecnologias e práticas utilizadas
     - Autenticação e Cadastro de Usuário
     - Listagem
     - Detalhes e Aceite de Jobs
-    - Atualização de Perfilde
+    - Atualização de Perfil
     - Listagem de Jobs Aceitos e Envio de Arquivos
 
 <h1 align="center"> 
