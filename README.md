@@ -33,6 +33,7 @@ Tecnologias e práticas utilizadas
     - Detalhes e Aceite de Jobs
     - Atualização de Perfil
     - Listagem de Jobs Aceitos e Envio de Arquivos
+    - Recuperação de senha
 
 <h1 align="center"> 
 	 Projeto
