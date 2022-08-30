@@ -16,13 +16,15 @@ Tecnologias e práticas utilizadas
 - Django 4
 - SQLite
 - Arquitetura MVT
+- HTML5
+- CSS3
 
 </br>
 
 # Descrição
 
 <p>
-    A idea da plataforma é conectar empresas que precisam de serviços de design ou edição de vídeo com Freelancers.
+    A ideia da plataforma é conectar empresas que precisam de serviços de design ou edição de vídeo com Freelancers.
 </p>
 
 </br>
